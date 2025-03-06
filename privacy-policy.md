@@ -79,4 +79,29 @@ If you have any questions about this Privacy Policy, please contact us at:
 ---
 
 By using Inyzo, you agree to this Privacy Policy.
+## Account Deletion & Data Removal  
+
+At **Inyzo**, we respect your right to delete your account and associated data. If you wish to delete your account, follow these steps:  
+
+### **How to Request Account Deletion**  
+1. Visit our **[Account Deletion Request Form](https://forms.gle/doXFEtpoaMDegxex7)**.  
+2. Enter your registered email and submit the request.  
+3. We will process your request within **[60days]** and notify you via email once completed.  
+
+### **What Happens When You Delete Your Account?**  
+
+**📌 Data That Will Be Deleted:**  
+✅ Your Inyzo account and login credentials.  
+✅ All events you created.  
+✅ Your participation history in events.  
+✅ Any stored personal information.  
+
+**📌 Data That May Be Retained (for legal or security reasons):**  
+🔹 Transaction records (if applicable) for **2 months** (to comply with financial regulations).  
+🔹 Anonymized data for analytics (not linked to your identity).  
+
+Once your request is processed, your data **cannot be recovered**.  
+
+For any queries, contact us at **[support@inyzo.com](mailto:support@inyzo.com)**.  
+
 
